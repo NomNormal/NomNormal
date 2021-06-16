@@ -1,7 +1,7 @@
-👋 Hi, I’m @NomNormal
-French IT engineer student.
-Interest in cybersecurity.👀
-In love with PowerShell.💙
+- 👋 Hi, I’m @NomNormal
+- French IT engineer student.
+- Interest in cybersecurity.👀
+- In love with PowerShell.💙
 
 <img src="https://media1.tenor.com/images/b21fd0427f24b663b8e4775660ed9a35/tenor.gif?itemid=20067665" width="300">
 
